@@ -36,8 +36,11 @@ An installation and tutorial guide you can find here in this YouTube series: htt
 The Small Basic Code file you can find under /EV3-program/EV3-program.sb
 Here you also have to replace the path with your directory to the Save.txt
 
+![Bild3](https://user-images.githubusercontent.com/89748204/155089502-434b795c-e027-4600-89ef-4420298360a9.PNG)
+
 After the Save.txt is finished, you can then connect your EV3 Brick to your PC and run the Small Basic script.
 The cutting process should then take about 3 hours.
 
-![Bild3](https://user-images.githubusercontent.com/89748204/155089502-434b795c-e027-4600-89ef-4420298360a9.PNG)
+![image](https://user-images.githubusercontent.com/89748204/155090979-397fe4e1-b19d-4508-971e-aaa71a0cba09.png)
 
+![image](https://user-images.githubusercontent.com/89748204/155090881-efe99917-5711-4baf-a087-e282efe2a8eb.png)
